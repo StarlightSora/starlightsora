@@ -1,5 +1,22 @@
 ### Easiest way to reach me at the moment (outside of Discord) is by opening an [issue](https://github.com/StarlightSora/starlightsora/issues) here!
 
+## Actively Writing
+
+- GDScript
+- Rust
+
+## Not Actively Writing
+
+- C (C99)
+- C++ (C++17)
+- Python
+- JavaScript
+- Lua
+
+## Considering
+
+- Nim
+
 <!--
 **StarlightSora/starlightsora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
