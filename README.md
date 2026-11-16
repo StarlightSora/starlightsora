@@ -9,7 +9,7 @@ she/her/any
 - GDScript
 - Rust
 
-## Not Actively Writing (In Order of Familiarity)
+## Not Actively Writing
 
 - Lua
 - C (C99)
@@ -22,7 +22,7 @@ she/her/any
 
 - Code Editor: [Helix](https://github.com/StarlightSora/starlightsora/blob/main/configs/helix) or Visual Studio Code
 - OS: Windows 11 or Ubuntu Budgie 26.04
-- shell: bash
+- Shell: bash
 
 # Other Stuff I Do (sometimes)
 
