@@ -6,20 +6,23 @@ she/her/any
 
 ## Actively Writing and Learning
 
-- GDScript (proficient enough)
-- Rust (intermediate, did not delve deep into async yet)
+- GDScript
+- Rust
 
-## Not Actively Writing
+## Not Actively Writing (In Order of Familiarity)
 
+- Lua
 - C (C99)
 - C++ (C++17)
 - Python
-- JavaScript
-- Lua
-
-## Considering
-
 - Nim
+- JavaScript
+
+# Development Environment
+
+- Code Editor: [Helix](https://github.com/StarlightSora/starlightsora/blob/main/configs/helix) or Visual Studio Code
+- OS: Windows 11 or Ubuntu Budgie 26.04
+- shell: bash
 
 # Other Stuff I Do (sometimes)
 

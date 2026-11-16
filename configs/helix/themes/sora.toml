@@ -1,0 +1,26 @@
+inherits = "tokyonight_moon"
+
+
+
+[palette]
+cyan = "#e5b4ff"
+turquoise = "#fae7ff"
+aqua = "#b981f5"
+green = "#d973bb"
+magenta = "#89ddff"
+purple = "#fca7bd"
+
+change = "#baad61"
+
+fg = "#c086d6"
+fg-dark = "#ad72d3"
+fg-gutter = "#4d3b61"
+fg-linenr = "#a26dcf"
+fg-selected = "#534875"
+border = "#100818"
+border-highlight = "#783090"
+bg = "#000000"
+bg-inlay = "#0b0910"
+bg-selection = "#400060"
+bg-menu = "#08050a"
+bg-focus = "#104060"

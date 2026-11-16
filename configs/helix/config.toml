@@ -1,0 +1,33 @@
+theme = "sora"
+
+[editor]
+line-number = "relative"
+end-of-line-diagnostics = "hint"
+color-modes = true
+
+[editor.file-picker]
+hidden = false
+
+[editor.lsp]
+display-progress-messages = true
+
+[editor.indent-guides]
+render = true
+character = "╎"
+
+[editor.inline-diagnostics]
+cursor-line = "warning"
+
+[editor.soft-wrap]
+enable = true
+
+[keys.normal]
+tab = "move_parent_node_end"
+S-tab = "move_parent_node_start"
+
+[keys.insert]
+S-tab = "move_parent_node_start"
+
+[keys.select]
+tab = "extend_parent_node_end"
+S-tab = "extend_parent_node_start"

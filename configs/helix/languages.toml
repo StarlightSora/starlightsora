@@ -1,0 +1,10 @@
+[language-server.taplo]
+config = {}
+
+[language-server.godot]
+command = "ncat"
+args = ["127.0.0.1", "6005"]
+
+[[language]]
+name = "gdscript"
+language-servers = ["godot"]
