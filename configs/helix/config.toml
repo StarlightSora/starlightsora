@@ -24,9 +24,11 @@ enable = true
 [keys.normal]
 tab = "move_parent_node_end"
 S-tab = "move_parent_node_start"
+S-s = ":w"
 
 [keys.insert]
 S-tab = "move_parent_node_start"
+A-q = "normal_mode"
 
 [keys.select]
 tab = "extend_parent_node_end"
